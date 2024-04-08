@@ -31,8 +31,8 @@ const Contacto = () => {
           <h2>Otras vias de comunicación</h2>
           <p>También puede contactarse con nosotros usando los siguientes medios</p>
           <ul>
-            <li>Telefono: 43242388</li>
-            <li>Email: contacto@transporte.com.ar</li>
+            <li>Telefono: +549 0800 433151</li>
+            <li>Email: contacto@nutricion.com</li>
             <li>Facebook:</li>
             <li>Twitter:</li>
             <li>Skype:</li>

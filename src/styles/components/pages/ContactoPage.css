@@ -45,7 +45,7 @@
 }
 
 .formulario input[type="submit"] {
-  background-color: #6da9ed;
+  background-color: #148f1b;
   box-shadow: 0 0 10px rgba (0,0,0,0.4);
   color: white;
   font-size: 16px;
@@ -58,6 +58,6 @@
 }
 
 .formulario input[type="submit"]:hover{
-  background-color: #2e64a1;
+  background-color: #2ea150;
 }
 
