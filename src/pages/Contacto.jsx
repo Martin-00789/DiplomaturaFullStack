@@ -1,6 +1,6 @@
 import "../styles/components/pages/ContactoPage.css";
 import { useState } from "react";
-import { Axios } from "axios";
+import axios from "axios";
 
 const Contacto = () => {
 
