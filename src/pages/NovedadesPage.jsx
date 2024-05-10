@@ -29,7 +29,7 @@ const NovedadesPage = () => {
       title={item.titulo}
       subtitle={item.subtitulo}
       imagen={item.imagen}
-      body={item.body}
+      body={item.cuerpo}
       />))}
     </section>
   );
